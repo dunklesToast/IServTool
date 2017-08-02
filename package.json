@@ -1,0 +1,33 @@
+{
+  "name": "iservtool",
+  "version": "1.0.0",
+  "description": "Simple tool for using IServ in nodeJS and use features like chat etc.",
+  "main": "IServTool.js",
+  "dependencies": {
+    "debug": "^2.6.8",
+    "encodeurl": "^1.0.1",
+    "request": "^2.81.0",
+    "tabletojson": "^0.6.0",
+    "urlencode": "^1.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dunklesToast/IServTool.git"
+  },
+  "keywords": [
+    "iserv",
+    "tool",
+    "iserv",
+    "gmbh"
+  ],
+  "author": "Tom Sacher <tomnik104@yahoo.de>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dunklesToast/IServTool/issues"
+  },
+  "homepage": "https://github.com/dunklesToast/IServTool#readme"
+}
